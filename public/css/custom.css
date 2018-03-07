@@ -1,0 +1,14 @@
+.dashboard, .controls, .notifications
+{
+ height: 600px;
+}
+
+.notifications
+{
+    display: block;
+}
+
+.card
+{
+margin-bottom: 10px;
+}
