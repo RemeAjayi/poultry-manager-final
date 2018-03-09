@@ -4,15 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start" : "node server/server.js", 
+    "start": "node server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-    "engines" : {
-      "node": "8.9.4"  
-    },
+  "engines": {
+    "node": "8.9.4"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.5.7",
     "express": "^4.16.2"
   }
 }
